@@ -1,0 +1,70 @@
+body{
+color: #40514e;
+margin: 0;
+font-family: serif;
+text-align: center;
+}
+h1{
+
+    
+    font-size: 48px;
+
+}
+h2{
+    color: #66bfbf;
+    font-size: 32px;
+    font-weight: normal;
+    padding: 10px;
+
+}
+hr{
+    border: dotted ;
+    width: 4%;
+    margin: 100px auto;
+    border-bottom: none;
+}
+.top{
+    background-color: #66bfbf;
+    height: 400px;
+    padding-top: 100px;
+}
+h3{
+    font-size: 20px;
+}
+.middle{
+    margin: 100px 0;
+}
+.skills-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+.buttom{
+    background-color: #66bfbf;
+    padding: 50px 0 20px;
+}
+.ctn{
+    width: 40%;
+    margin: 40px auto 60px;
+}
+.btn{
+    background-color: #11cdd4;
+    border-radius: 8px;
+    color: white;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    margin-bottom: ;
+}
+.contact{
+    margin-bottom: 30px;
+}
+.web{
+    float: left;
+
+} 
+video{
+    float: right;
+    margin-right: 30px ;
+}
+
